@@ -28,9 +28,9 @@
 			Groupe 1B2
 		</h2>
 		<ul>
-			<li><b>Nom</b> Prenom Etudiant</li>
-			<li><b>Nom</b> Prenom Etudiant</li>			
-			<li><b>Nom</b> Prenom Etudiant</li>
+			<li><b>Nom</b> Prenom : <a href="">Mail</a> </li>
+			<li><b>Nom</b> Prenom : <a href="">Mail</a> </li>			
+			<li><b>Nom</b> Prenom : <a href="">Mail</a> </li>
 		</ul>
 	</div>
 
